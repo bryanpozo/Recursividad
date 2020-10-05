@@ -1,0 +1,13 @@
+C:\Users\bryan pozo\source\repos\sumatoria\sumatoria\bin\Debug\netcoreapp3.1\sumatoria.exe
+C:\Users\bryan pozo\source\repos\sumatoria\sumatoria\bin\Debug\netcoreapp3.1\sumatoria.deps.json
+C:\Users\bryan pozo\source\repos\sumatoria\sumatoria\bin\Debug\netcoreapp3.1\sumatoria.runtimeconfig.json
+C:\Users\bryan pozo\source\repos\sumatoria\sumatoria\bin\Debug\netcoreapp3.1\sumatoria.runtimeconfig.dev.json
+C:\Users\bryan pozo\source\repos\sumatoria\sumatoria\bin\Debug\netcoreapp3.1\sumatoria.dll
+C:\Users\bryan pozo\source\repos\sumatoria\sumatoria\bin\Debug\netcoreapp3.1\sumatoria.pdb
+C:\Users\bryan pozo\source\repos\sumatoria\sumatoria\obj\Debug\netcoreapp3.1\sumatoria.csprojAssemblyReference.cache
+C:\Users\bryan pozo\source\repos\sumatoria\sumatoria\obj\Debug\netcoreapp3.1\sumatoria.AssemblyInfoInputs.cache
+C:\Users\bryan pozo\source\repos\sumatoria\sumatoria\obj\Debug\netcoreapp3.1\sumatoria.AssemblyInfo.cs
+C:\Users\bryan pozo\source\repos\sumatoria\sumatoria\obj\Debug\netcoreapp3.1\sumatoria.csproj.CoreCompileInputs.cache
+C:\Users\bryan pozo\source\repos\sumatoria\sumatoria\obj\Debug\netcoreapp3.1\sumatoria.dll
+C:\Users\bryan pozo\source\repos\sumatoria\sumatoria\obj\Debug\netcoreapp3.1\sumatoria.pdb
+C:\Users\bryan pozo\source\repos\sumatoria\sumatoria\obj\Debug\netcoreapp3.1\sumatoria.genruntimeconfig.cache
