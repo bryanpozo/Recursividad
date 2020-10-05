@@ -1,0 +1,13 @@
+C:\Users\bryan pozo\source\repos\cmd\cmd\bin\Debug\netcoreapp3.1\cmd.exe
+C:\Users\bryan pozo\source\repos\cmd\cmd\bin\Debug\netcoreapp3.1\cmd.deps.json
+C:\Users\bryan pozo\source\repos\cmd\cmd\bin\Debug\netcoreapp3.1\cmd.runtimeconfig.json
+C:\Users\bryan pozo\source\repos\cmd\cmd\bin\Debug\netcoreapp3.1\cmd.runtimeconfig.dev.json
+C:\Users\bryan pozo\source\repos\cmd\cmd\bin\Debug\netcoreapp3.1\cmd.dll
+C:\Users\bryan pozo\source\repos\cmd\cmd\bin\Debug\netcoreapp3.1\cmd.pdb
+C:\Users\bryan pozo\source\repos\cmd\cmd\obj\Debug\netcoreapp3.1\cmd.csprojAssemblyReference.cache
+C:\Users\bryan pozo\source\repos\cmd\cmd\obj\Debug\netcoreapp3.1\cmd.AssemblyInfoInputs.cache
+C:\Users\bryan pozo\source\repos\cmd\cmd\obj\Debug\netcoreapp3.1\cmd.AssemblyInfo.cs
+C:\Users\bryan pozo\source\repos\cmd\cmd\obj\Debug\netcoreapp3.1\cmd.csproj.CoreCompileInputs.cache
+C:\Users\bryan pozo\source\repos\cmd\cmd\obj\Debug\netcoreapp3.1\cmd.dll
+C:\Users\bryan pozo\source\repos\cmd\cmd\obj\Debug\netcoreapp3.1\cmd.pdb
+C:\Users\bryan pozo\source\repos\cmd\cmd\obj\Debug\netcoreapp3.1\cmd.genruntimeconfig.cache
